@@ -1,7 +1,7 @@
 # My QRCode Scanner
 Simple app for reading QR Code
 
-## Tecnologias utilizadas:
+## Technologies
 - Jetpack Compose
 - Camera X
 
